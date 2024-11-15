@@ -1,2 +1,2 @@
 # coffee
-a django project
+a django projects
